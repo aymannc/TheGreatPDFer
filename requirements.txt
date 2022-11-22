@@ -5,7 +5,7 @@ cryptography==2.8
 fpdf==1.7.2
 idna==2.8
 pdfkit==0.6.1
-Pillow==7.0.0
+Pillow==9.3.0
 pycparser==2.19
 pyOpenSSL==19.1.0
 PySocks==1.7.1
